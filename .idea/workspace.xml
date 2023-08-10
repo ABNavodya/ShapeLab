@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68e46608-4ca2-4bbc-9d58-d0e155ccd094" name="Changes" comment="Integrating Final System v2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle/RectangleFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle/RectangleFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2205b3a4-7f0f-4dec-8905-c722b3a86f7e" />
+        <option name="url" value="https://github.com/Plymouth-University/main-coursework-code-wizards.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PFPG1jmFHsKUMLrx8VHryezFVc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "251",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "311",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Manujaya",
+    "jdk.selected.JAVA_MODULE": "corretto-15",
+    "last_opened_file_path": "D:/main-coursework-code-wizards/libs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "F:/University/3rd year/HCI, Computer graphics and visualization/Project/Project/ShapeLab/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\main-coursework-code-wizards\libs" />
+      <recent name="E:\main-coursework-code-wizards\Images" />
+      <recent name="E:\main-coursework-code-wizards\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\main-coursework-code-wizards\Images" />
+      <recent name="E:\main-coursework-code-wizards\libs" />
+      <recent name="C:\main-coursework-code-wizards" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Oval">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Circle.Circle" />
+      <module name="main-coursework-code-wizards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Circle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oval.Oval" />
+      <module name="main-coursework-code-wizards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Oval.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Rhombus.Rhombus" />
+      <module name="main-coursework-code-wizards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Rhombus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scalene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Scalene.Scalene" />
+      <module name="main-coursework-code-wizards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Scalene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Square.Square" />
+      <module name="main-coursework-code-wizards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Square.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Oval" />
+        <item itemvalue="Application.Rhombus" />
+        <item itemvalue="Application.Square" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Scalene" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e46608-4ca2-4bbc-9d58-d0e155ccd094" name="Changes" comment="Readme file updated" />
+      <created>1683049761171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683049761171</updated>
+      <workItem from="1684777826472" duration="914000" />
+      <workItem from="1684778849545" duration="15511000" />
+      <workItem from="1684816488109" duration="5663000" />
+      <workItem from="1684823091189" duration="27009000" />
+      <workItem from="1684859293297" duration="21235000" />
+      <workItem from="1684882270574" duration="703000" />
+      <workItem from="1684901638242" duration="2933000" />
+      <workItem from="1684905782566" duration="51233000" />
+    </task>
+    <task id="LOCAL-00001" summary="ShapeLab Repository updated">
+      <created>1683049895899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049895899</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GitIgnore Updated">
+      <created>1683050108222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683050108222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Shapes screen frontend updated">
+      <created>1683139615835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683139615835</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Shapes screen frontend updated">
+      <created>1683234020612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683234020613</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TwoDScreen color theme updated">
+      <created>1683408720886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683408720886</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Parallelogram screen created">
+      <created>1684092622954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684092622954</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Parallelogram screen color theme updated">
+      <created>1684173359567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684173359567</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ObtuseTriangle screen and the color theme updated">
+      <created>1684183278692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684183278693</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Readme file updated">
+      <created>1684269107041</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684269107041</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Readme file updated">
+      <created>1684654514290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684654514290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="UI Updated">
+      <created>1684737064499</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684737064499</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Integrating Phase 1">
+      <created>1684782912628</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684782912628</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Integrating Phase 2">
+      <created>1684789146916</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684789146916</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Rhombus, Scalene, Shapes and Square to the master">
+      <created>1684790116003</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684790116003</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Integrating Phase 3">
+      <created>1684793190618</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684793190618</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Semicircle, Decagon and circle screens updated">
+      <created>1684794329248</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684794329248</updated>
+    </task>
+    <task id="LOCAL-00017" summary="EquilateralTriangle, Heptagon, Hexagon and PolygonsForm screens are added to the master.">
+      <created>1684823922229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684823922229</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Polygons Form Updated">
+      <created>1684859615041</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684859615041</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Integrating Phase 4">
+      <created>1684867883836</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684867883836</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Integrating Phase 5">
+      <created>1684871588120</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684871588120</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Integrating Phase 6">
+      <created>1684877125703</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684877125703</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Polygons Screen Name Updated">
+      <created>1684877303482</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684877303482</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Integrating Phase 7">
+      <created>1684879626070</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684879626070</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Integrating Phase 8">
+      <created>1684880009233</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684880009233</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Library Files Deleted">
+      <created>1684904181647</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684904181647</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Library Files Imported">
+      <created>1684906294333</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684906294333</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Library Files Imported">
+      <created>1684906534147</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684906534147</updated>
+    </task>
+    <task id="LOCAL-00028" summary="3D Cube and Cuboid Screen are Created">
+      <created>1684918256934</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684918256934</updated>
+    </task>
+    <task id="LOCAL-00029" summary="3D Cylinder and Hexagonal Prism Screens are Created">
+      <created>1684937139146</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684937139146</updated>
+    </task>
+    <task id="LOCAL-00030" summary="3D Pyramid and Pentagonal Prism Screens are Created">
+      <created>1684943342208</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1684943342208</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Integrating Final System v2">
+      <created>1684960099035</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1684960099035</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Parallelogram screen created" />
+    <MESSAGE value="Parallelogram screen color theme updated" />
+    <MESSAGE value="ObtuseTriangle screen and the color theme updated" />
+    <MESSAGE value="Readme file updated" />
+    <MESSAGE value="UI Updated" />
+    <MESSAGE value="Integrating Phase 1" />
+    <MESSAGE value="Integrating Phase 2" />
+    <MESSAGE value="Added Rhombus, Scalene, Shapes and Square to the master" />
+    <MESSAGE value="Integrating Phase 3" />
+    <MESSAGE value="Semicircle, Decagon and circle screens updated" />
+    <MESSAGE value="EquilateralTriangle, Heptagon, Hexagon and PolygonsForm screens are added to the master." />
+    <MESSAGE value="Polygons Form Updated" />
+    <MESSAGE value="Integrating Phase 4" />
+    <MESSAGE value="Integrating Phase 5" />
+    <MESSAGE value="Integrating Phase 6" />
+    <MESSAGE value="Polygons Screen Name Updated" />
+    <MESSAGE value="Integrating Phase 7" />
+    <MESSAGE value="Integrating Phase 8" />
+    <MESSAGE value="Library Files Deleted" />
+    <MESSAGE value="Library Files Imported" />
+    <MESSAGE value="3D Cube and Cuboid Screen are Created" />
+    <MESSAGE value="3D Cylinder and Hexagonal Prism Screens are Created" />
+    <MESSAGE value="3D Pyramid and Pentagonal Prism Screens are Created" />
+    <MESSAGE value="Integrating Final System" />
+    <MESSAGE value="Integrating Final System v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrating Final System v2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IsocelesTriangle/IsocelesTriangleFrame.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IsocelesTriangle/IsocelesTriangleFrame.java</url>
+          <line>315</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sphere.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
